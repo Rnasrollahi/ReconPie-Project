@@ -42,8 +42,6 @@ icon=soup.new_tag("link" , rel="icon",href="./Python.svg.png")
 head.append(icon)
 css=soup.new_tag("link",rel="stylesheet",href="./style.css")
 head.append(css)
-title_page=soup.new_tag("a",href=url.url,target="blank",id="link")
-title_page.string="main link"
 
 
 
@@ -52,7 +50,6 @@ soup.html.append(body)
 h1 = soup.new_tag("h1")
 h1.string = "Reconpie project-created by rez"
 body.append(h1)
-body.append(title_page)
 header=soup.new_tag("span",id="span")
 header.string="what do we do in this project?"
 body.append(header)
