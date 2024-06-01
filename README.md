@@ -18,8 +18,5 @@ all the files loaded on We download the siteWe
 - Reports Generation
 - File Enumeration and Download
 - Wappalyzer Integration
-- Gowitness Integration
-- MultiURL Implementation
-- History Tracking
-- Simple Back-end
+- scrinshot
 - Simple Front-end
