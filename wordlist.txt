@@ -1,0 +1,7 @@
+www
+mail
+remote
+blog
+webmail
+server
+vpn
