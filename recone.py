@@ -274,7 +274,7 @@ write_to_html()
 
 i=soup.new_tag("img",id="ifg",src="./hack.jpg")
 body.append(i)
-git=soup.new_tag("a",target="blank",href="https://github.com/i-RezA-n",id="git")
+git=soup.new_tag("a",target="blank",href="https://github.com/Rnasrollahi",id="git")
 git.string="See my github"
 body.append(git)
 
