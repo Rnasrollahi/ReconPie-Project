@@ -285,16 +285,3 @@ file_name = "index.html"
 with open(file_name, "w", encoding="utf-8") as file:
     file.write(str(soup.prettify()))
 
-# def write_to_html():
-#      f=open("list.txt","r")
-#      for i in f.readlines():
-#           line=i.strip()
-#           information=soup.new_tag("p")
-#           information.string=line
-#           body.append(information)
-
-# write_to_html()
-
-# file_name = "index.html"
-# with open(file_name, "w",encoding="utf-8") as file:
-#     file.write(str(soup.prettify()))
