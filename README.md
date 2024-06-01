@@ -5,7 +5,7 @@ we will find all the emails and phone numbers using the Regges language,
 and we will get all the specifications and information of the site builders using the Huiz library, and in the last step,
 all the files loaded on We download the siteWe 
 Features
->Sitemap Generation
+Sitemap Generation
 >Subdomain Enumeration
 >Status Code and Title Retrieval
 >Domain to IP Mapping
